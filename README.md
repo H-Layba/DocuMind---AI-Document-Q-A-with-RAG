@@ -83,8 +83,8 @@ PDF Upload → Text Extraction (PyPDF) → Chunking (LangChain)
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/<H-Layba>/DocuMind---AI-Document-Q-A-with-RAG.git
+cd DocuMind---AI-Document-Q-A-with-RAG
 
 python -m venv venv
 source venv/bin/activate      # on Windows: venv\Scripts\activate
