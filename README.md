@@ -46,7 +46,7 @@ PDF Upload → Text Extraction (PyPDF) → Chunking (LangChain)
 **Example**: Uploading a lecture PDF on neural networks and asking a comparison question.
 
 
-
+![DocuMind demo - asking a question and getting a cited answer](Screenshot 2026-06-15 200512.png)
 
 > **Question:** *"What is the core difference between ANN and CNN?"*
 >
